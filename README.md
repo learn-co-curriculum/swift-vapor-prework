@@ -10,7 +10,7 @@ How you'll feel after learning Swift on The Server
 
 * Latest Xcode (8.2 or 8.3)
 * Swift 3 or Swift 3.1
-* [Vapor ToolBox](curl -sL toolbox.vapor.sh | bash)
+* VaporToolBox `curl -sL toolbox.vapor.sh | bash`
 
 
 ### Before class
